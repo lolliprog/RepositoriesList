@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RepositoriesList</string>
+    <string name="enter_the_name_of_repository">enter the name of repository</string>
+    <string name="show">show</string>
+</resources>
